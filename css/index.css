@@ -154,7 +154,7 @@ header nav a:hover{
 
 
 section{
-        margin: 5% 0;
+        margin: 1% 0;
 }
 
 .sec1{
@@ -264,10 +264,7 @@ address,footer{
 
 
  @media (max-width:800px){
-     body{
-         background-color: aquamarine;
-     }
-
+     
      header{
          flex-direction: column-reverse;
          position: relative;
@@ -296,9 +293,7 @@ address,footer{
  }
 
  @media (max-width:500px){
-     body{
-         background-color: rebeccapurple;
-     }
+    
      .sec1 div h1{
          font-size: 3rem;
      }
@@ -307,6 +302,7 @@ address,footer{
      }
      .row3,.inner-div{
          width: 100%;
+         margin: 3% 0;
         
      }
      .row3 p, .inner-div p{
