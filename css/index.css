@@ -78,12 +78,12 @@ body{
 
 div.container{
       
-        width:80%;
+        width:90%;
         margin: 3% auto;
  
 }
 .inner{
-    width: 80%;
+    width: 100%;
     margin: 2% auto;
 }
 section:nth-child(3),section:nth-child(4){
