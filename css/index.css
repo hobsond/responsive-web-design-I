@@ -283,6 +283,9 @@ address,footer{
          font-size: 3.7rem;
      }
     
+     .row3 p, .inner-div p{
+        font-size: 1.6rem;
+    }
     
 
      .sec1 img{
@@ -299,7 +302,31 @@ address,footer{
      .sec1 div h1{
          font-size: 3rem;
      }
+     header nav,.parent,.parent2{
+         flex-direction: column;
+     }
+     .row3,.inner-div{
+         width: 100%;
+        
+     }
+     .row3 p, .inner-div p{
+         font-size: 1.6rem;
+     }
 
+     header nav a{
+         height: 2rem;
+         border: solid black 1px;
+         width: 100%;
+         text-align: center;
+
+     }
+     .middle-img{
+         width: 100%;
+     }
+     address p{
+         font-size: 1rem;
+     }
+    
 }
 
 
